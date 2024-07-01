@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>Qinglong</Name>
+  <Repository>whyour/qinglong:latest</Repository>
+  <Registry>https://hub.docker.com/r/whyour/qinglong/</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support>https://hub.docker.com/r/whyour/qinglong/</Support>
+  <Project>https://github.com/whyour/qinglong</Project>
+  <Overview>A timed task management panel that supports typescript, javaScript, python3, and shell.&#xD;
+&#xD;
+https://hub.docker.com/r/whyour/qinglong/&#xD;
+&#xD;
+Name Origin&#xD;
+The Green Dragon, also known as the Canglong, is one of the four elephants and one of the four spirits of the heavens in traditional Chinese culture. According to the Five Elements, it is a spirit animal representing the East as a green dragon, the five elements are wood, and the season represented is spring, with the eight trigrams dominating vibration. Like the Ying Long, the Cang Long has feathered wings. According to the Zhang Guo Xing Zong (Zhang Guo Xing Zong), "a true dragon is one that has complementary wings".&#xD;
+&#xD;
+In the Book of the Later Han Dynasty (&#x5F8C;&#x6F22;&#x66F8;-&#x5F8B;&#x66C6;&#x5FD7;&#x4E0B;), it is written: "The sun is in the sky, a cold and a summer, the four seasons are ready, all things are changed, the regency moves, and the green dragon moves to the star, which is called the year. (The Year of the Star)&#xD;
+&#xD;
+Among the twenty-eight Chinese constellations, the Green Dragon is the generic name for the seven eastern constellations (Horn, Hyper, Diao, Fang, Heart, Tail and Minchi). It is known in Taoism as "Mengzhang" and in different Taoist scriptures as "Dijun", "Shengjian", "Shenjian" and He is also known in different Daoist scriptures as "Dijun", "Shengjun", "Shenjun" and "Ghost Catcher"[1], and is the guardian deity of Daoism, together with the White Tiger Supervisor of Soldiers.</Overview>
+  <Category>Productivity:</Category>
+  <WebUI>http://192.168.1.55:5700/</WebUI>
+  <TemplateURL/>
+  <Icon>https://user-images.githubusercontent.com/22700758/191449379-f9f56204-0e31-4a16-be5a-331f52696a73.png</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1719795480</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Requires/>
+  <Config Name="Container Path 1" Target="/ql/data" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/qinglong</Config>
+  <Config Name="Container Port 1" Target="5700" Default="5700" Mode="tcp" Description="" Type="Port" Display="always" Required="false" Mask="false">5700</Config>
+</Container>
