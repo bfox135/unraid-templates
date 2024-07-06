@@ -20,7 +20,7 @@ In the Book of the Later Han Dynasty (&#x5F8C;&#x6F22;&#x66F8;-&#x5F8B;&#x66C6;&
 &#xD;
 Among the twenty-eight Chinese constellations, the Green Dragon is the generic name for the seven eastern constellations (Horn, Hyper, Diao, Fang, Heart, Tail and Minchi). It is known in Taoism as "Mengzhang" and in different Taoist scriptures as "Dijun", "Shengjian", "Shenjian" and He is also known in different Daoist scriptures as "Dijun", "Shengjun", "Shenjun" and "Ghost Catcher"[1], and is the guardian deity of Daoism, together with the White Tiger Supervisor of Soldiers.</Overview>
   <Category>Productivity:</Category>
-  <WebUI>http://192.168.1.55:5700/</WebUI>
+  <WebUI>http://[IP]:[PORT:5700]/</WebUI>
   <TemplateURL/>
   <Icon>https://user-images.githubusercontent.com/22700758/191449379-f9f56204-0e31-4a16-be5a-331f52696a73.png</Icon>
   <ExtraParams/>
